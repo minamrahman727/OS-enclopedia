@@ -68,7 +68,7 @@ A comprehensive, full-stack web application for exploring and managing operating
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/os-encyclopedia.git
+   git clone https://github.com/minamrahman727/os-encyclopedia.git
    cd os-encyclopedia
    ```
 
@@ -178,4 +178,4 @@ If you have any questions or need help, please:
 
 ---
 
-Built with ❤️ by the OS Encyclopedia Team
+Built with ❤️ by the Team ZEX
